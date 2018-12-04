@@ -1,0 +1,6 @@
+{
+    "puppet_task_version": 1,
+    "supports_noop": false,
+    "description": "Simple Windows Task to test network connection",
+    "parameters": {}
+}

@@ -1,0 +1,31 @@
+{
+  "name": "beersy-testconnection",
+  "version": "0.1.0",
+  "author": "Abir Majumdar",
+  "summary": "Simple Windows Task to test network connection",
+  "license": "Apache-2.0",
+  "source": "http://github.com/maju6406/testconnection",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "windows",
+      "operatingsystemrelease": [
+        "2008 R2",
+        "2012 R2",
+        "2016",
+        "10"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.7.0 < 6.0.0"
+    }
+  ],
+  "pdk-version": "1.7.0",
+  "template-url": "https://github.com/puppetlabs/pdk-templates",
+  "template-ref": "1.7.0-0-g57412ed"
+}
