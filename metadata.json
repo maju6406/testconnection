@@ -1,6 +1,6 @@
 {
   "name": "beersy-testconnection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Abir Majumdar",
   "summary": "Simple Windows Task to test network connection",
   "license": "Apache-2.0",
